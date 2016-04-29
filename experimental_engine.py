@@ -18,6 +18,9 @@ Sources Cited: 	https://datasciencelab.wordpress.com/2013/12/12/clustering-with-
 """
 from __future__ import division
 from random import randint
+from flask import Flask
+from flask import render_template
+from flask import request
 import numpy as np
 import random
 import sys
@@ -25,6 +28,24 @@ import os
 import re
 import math
 import time
+
+#configuration (used for flask)
+DEBUG = True
+
+app = Flask(__name__)
+app.config.from_object(__name__)
+
+if __name__ == '__main__':
+  app.run()
+
+@app.route('/',methods=['POST','GET'])
+def process_form():
+    if request.method == 'POST':
+       form_input = request.form['name']
+       return render_template('index.html',name=form_input)
+    else:
+       return render_template('index.html')
+
 
 def word_count_dict(folder_path, review_list, index):
     word_count = {}
@@ -327,14 +348,18 @@ def k_means(score_list, k, cent_list):
     if convergence(cur_points, old_points) == 0:
       print "CONVERGENCE REACHED"
   return clusters
-  
+ 
+@app.route('/',methods=['POST', 'GET']) 
 def main():
  if len(sys.argv) != 2:
    print 'usage: part22.py folder_path_to_books'
    sys.exit(1)
  folder_path = sys.argv[1]
  q_file = open("query.txt", "w")
- user_query = raw_input("PLEASE ENTER YOUR QUERY RELATED TO AUTHOR / TITLE / BOOK CONTENT: ")
+ if request.method == 'POST':
+  user_query = request.form['query']
+  return render_template('index.html',query=form_input)
+ #user_query = raw_input("PLEASE ENTER YOUR QUERY RELATED TO AUTHOR / TITLE / BOOK CONTENT: ")
  q_file.write(user_query)
  q_file.close()
  #time.sleep(5)
@@ -360,5 +385,6 @@ def main():
    place = place + 1
  out_file.close()
 
-if __name__ == '__main__':
-  main()
+# if __name__ == '__main__':
+#   main()
+#   #app.run()

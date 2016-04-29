@@ -1,265 +1,287 @@
 The top twenty scoring books (highest to lowest) based on your query are: 
-1.  Title: Andrew Lang___The Gold Of Fairnilee.txt Score: 0.021277647219
-2.  Title: Andrew Lang___Prince Prigio From _His Own Fairy Book_.txt Score: 0.0181218678347
-3.  Title: Andrew Lang___The Yellow Fairy Book.txt Score: 0.0168287408304
-4.  Title: Andrew Lang___The Violet Fairy Book.txt Score: 0.015675255389
-5.  Title: Andrew Lang___Prince Prigio.txt Score: 0.0151128886251
-6.  Title: Andrew Lang___The Grey Fairy Book.txt Score: 0.0149399415415
-7.  Title: Andrew Lang___The Arabian Nights Entertainments.txt Score: 0.0148035337705
-8.  Title: Andrew Lang___Prince Ricardo of Pantouflia.txt Score: 0.0146014480295
-9.  Title: Andrew Lang___The Red Fairy Book.txt Score: 0.014132544496
-10.  Title: Andrew Lang___The Blue Fairy Book.txt Score: 0.013712467283
-11.  Title: Andrew Lang___Grass of Parnassus.txt Score: 0.013495198373
-12.  Title: Andrew Lang___The Lilac Fairy Book.txt Score: 0.0130939084517
-13.  Title: Ambrose Bierce___A Son of the Gods, and A Horseman in the Sky.txt Score: 0.0130270388888
-14.  Title: Andrew Lang___The Pink Fairy Book.txt Score: 0.0128558723084
-15.  Title: Andrew Lang___The Crimson Fairy Book.txt Score: 0.0126428526641
-16.  Title: Andrew Lang___The Orange Fairy Book.txt Score: 0.012556801856
-17.  Title: Andrew Lang___Ban and Arriere Ban.txt Score: 0.0121101469718
-18.  Title: Andrew Lang___Angling Sketches.txt Score: 0.0120503836035
-19.  Title: Andrew Lang___Helen of Troy.txt Score: 0.0116245629713
-20.  Title: Anthony Trollope___John Bull on the Guadalquivir from Tales from all Countries.txt Score: 0.0115998797423
+1.  Title: Andrew Lang___The Gold Of Fairnilee.txt
+2.  Title: Andrew Lang___Prince Prigio From _His Own Fairy Book_.txt
+3.  Title: Andrew Lang___Prince Prigio.txt
+4.  Title: Andrew Lang___Prince Ricardo of Pantouflia.txt
+5.  Title: Andrew Lang___The Yellow Fairy Book.txt
+6.  Title: Andrew Lang___The Grey Fairy Book.txt
+7.  Title: Andrew Lang___The Violet Fairy Book.txt
+8.  Title: Andrew Lang___Ban and Arriere Ban.txt
+9.  Title: Andrew Lang___The Blue Fairy Book.txt
+10.  Title: Andrew Lang___The Red Fairy Book.txt
+11.  Title: Andrew Lang___Grass of Parnassus.txt
+12.  Title: Andrew Lang___The Orange Fairy Book.txt
+13.  Title: Andrew Lang___The Pink Fairy Book.txt
+14.  Title: Andrew Lang___The Lilac Fairy Book.txt
+15.  Title: Andrew Lang___Rhymes a la Mode.txt
+16.  Title: Andrew Lang___Ballads in Blue China and Verses and Translations.txt
+17.  Title: Andrew Lang___The Crimson Fairy Book.txt
+18.  Title: Andrew Lang___The Arabian Nights Entertainments.txt
+19.  Title: Andrew Lang___How to Fail in Literature.txt
+20.  Title: Andrew Lang___The Brown Fairy Book.txt
 The following selections are grouped based off the top results in respective order:
 
-4 ITEMS IN GROUP FOR RESULT #1 ARE: 
-Anthony Trollope___Sir Harry Hotspur of Humblethwaite.txt
-Andrew Lang___Sir Walter Scott and the Border Minstrelsy.txt
-Anthony Trollope___Kept in the Dark.txt
-Anthony Trollope___Dr. Wortle's School.txt
+3 ITEMS IN GROUP FOR RESULT #1 ARE: 
+Andrew Lang___Rhymes a la Mode.txt
+Ambrose Bierce___Present at a Hanging and Other Ghost Stories.txt
+Andrew Lang___Ballads in Blue China and Verses and Translations.txt
 
-3 ITEMS IN GROUP FOR RESULT #2 ARE: 
-Andrew Lang___Tales of Troy and Greece.txt
+4 ITEMS IN GROUP FOR RESULT #2 ARE: 
+Andrew Lang___The Grey Fairy Book.txt
+Anthony Trollope___An Eye for an Eye.txt
+Howard Phillips Lovecraft_The Shadow Over Innsmouth.txt
+Anthony Trollope___Sir Harry Hotspur of Humblethwaite.txt
+
+3 ITEMS IN GROUP FOR RESULT #3 ARE: 
 Andrew Lang___The Violet Fairy Book.txt
+Andrew Lang___Tales of Troy and Greece.txt
 Andrew Lang___The Orange Fairy Book.txt
 
-6 ITEMS IN GROUP FOR RESULT #3 ARE: 
-Anthony Trollope___Hunting Sketches.txt
-Andrew Lang___Andrew Lang's Introduction to The Compleat Angler.txt
-Andrew Lang___Grass of Parnassus.txt
-Andrew Lang___Much Darker Days.txt
-Aldous Huxley___The Defeat of Youth and Other Poems.txt
-Alexander Pope___An Essay on Criticism.txt
-
-3 ITEMS IN GROUP FOR RESULT #4 ARE: 
-Abraham Lincoln___Lincoln's Inaugurals, Addresses and Letters (Selections).txt
-Andrew Lang___The Brown Fairy Book.txt
-Aldous Huxley___Mortal Coils.txt
+24 ITEMS IN GROUP FOR RESULT #4 ARE: 
+Abraham Lincoln___The Writings of Abraham Lincoln, Volume 2_ 1843-1858.txt
+Baronness Orczy___The Heart of a Woman.txt
+Anthony Trollope___The Landleaguers.txt
+Anthony Trollope___The Warden.txt
+Andrew Lang___The Mark Of Cain.txt
+Abraham Lincoln___The Writings of Abraham Lincoln, Volume 6_ 1862-1863.txt
+Anthony Trollope___Rachel Ray.txt
+Andrew Lang___The Blue Fairy Book.txt
+Andrew Lang___Letters to Dead Authors.txt
+Andrew Lang___The Library.txt
+Baronness Orczy___A Bride of the Plains.txt
+Baronness Orczy___I Will Repay.txt
+Anthony Trollope___Miss Mackenzie.txt
+Anthony Trollope___Lady Anna.txt
+Andrew Lang___James VI and the Gowrie Mystery.txt
+Andrew Lang___Modern Mythology.txt
+Anthony Trollope___The Belton Estate.txt
+Baronness Orczy___The League of the Scarlet Pimpernel.txt
+Andrew Lang___A Collection of Ballads.txt
+Agatha Christie___The Secret Adversary.txt
+Andrew Lang___Books and Bookmen.txt
+Baronness Orczy___Castles in the Air.txt
+Abraham Lincoln___The Writings of Abraham Lincoln, Volume 7_ 1863-1865.txt
+Andrew Lang___Shakespeare, Bacon and the Great Unknown.txt
 
 6 ITEMS IN GROUP FOR RESULT #5 ARE: 
-Abraham Lincoln___Lincoln's Second Inaugural Address.txt
-Abraham Lincoln___Lincoln Letters.txt
-Abraham Lincoln___The Emancipation Proclamation.txt
-Beatrix Potter___Cecily Parsley's Nursery Rhymes.txt
-Beatrix Potter___The Story of Miss Moppet.txt
-Abraham Lincoln___Lincoln's Gettysburg Address, given November 19, 1863.txt
+Andrew Lang___The Lilac Fairy Book.txt
+Andrew Lang___Letters on Literature.txt
+Howard Phillips Lovecraft_The Dream Quest of Unknown Kadath.txt
+Andrew Lang___The Brown Fairy Book.txt
+Abraham Lincoln___Lincoln's Inaugurals, Addresses and Letters (Selections).txt
+Aldous Huxley___Mortal Coils.txt
 
-29 ITEMS IN GROUP FOR RESULT #6 ARE: 
+8 ITEMS IN GROUP FOR RESULT #6 ARE: 
+Anthony Trollope___Kept in the Dark.txt
+Anthony Trollope___Dr. Wortle's School.txt
+Andrew Lang___Sir Walter Scott and the Border Minstrelsy.txt
+Anthony Trollope___Linda Tressel.txt
+Anthony Trollope___Nina Balatka.txt
+Anthony Trollope___An Old Man's Love.txt
+Anthony Trollope___Cousin Henry.txt
+Abraham Lincoln___State of the Union Addresses.txt
+
+6 ITEMS IN GROUP FOR RESULT #7 ARE: 
+Agatha Christie___The Mysterious Affair at Styles.txt
+Anthony Trollope___The Fixed Period.txt
+Andrew Lang___The Crimson Fairy Book.txt
+Andrew Lang___Angling Sketches.txt
+Andrew Lang___The Pink Fairy Book.txt
+Ambrose Bierce___Fantastic Fables.txt
+
+30 ITEMS IN GROUP FOR RESULT #8 ARE: 
+Baronness Orczy___El Dorado.txt
+Alfred Russel Wallace___The Malay Archipelago, Volume 1.txt
+Ambrose Bierce___Shapes of Clay.txt
+Anthony Trollope___The Kellys and the O'Kellys.txt
+Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 2.txt
+Anthony Trollope___Ralph the Heir.txt
+Ambrose Bierce___The Shadow On The Dial, and Other Essays.txt
+Ambrose Bierce___Black Beetles in Amber.txt
+Baronness Orczy___The Bronze Eagle.txt
+Anthony Trollope___John Caldigate.txt
+Andrew Lang___Essays in Little.txt
+Anthony Trollope___The Duke's Children.txt
+Ambrose Bierce___Cobwebs From an Empty Skull.txt
+Alfred Russel Wallace___The Malay Archipelago, Volume 2.txt
+Baronness Orczy___Petticoat Rule.txt
+Andrew Lang___A Short History of Scotland.txt
+Anthony Trollope___Life of Cicero Volume Two.txt
+Andrew Lang___Custom and Myth.txt
+Andrew Lang___The Valet's Tragedy and Other Stories.txt
+Andrew Lang___Historical Mysteries.txt
+Anthony Trollope___The Vicar of Bullhampton.txt
+Anthony Trollope___La Vendée.txt
+Baronness Orczy___The Laughing Cavalier.txt
+Abraham Lincoln___The Writings of Abraham Lincoln, Volume 1_ 1832-1843.txt
+Baronness Orczy___The Nest of the Sparrowhawk.txt
+Andrew Lang___Pickle the Spy.txt
+Anthony Trollope___Marion Fay.txt
+Anthony Trollope___Is He Popenjoy_.txt
+Baronness Orczy____Unto Caesar_.txt
+Anthony Trollope___The American Senator.txt
+
+25 ITEMS IN GROUP FOR RESULT #9 ARE: 
+Baronness Orczy___The Elusive Pimpernel.txt
+Anthony Trollope___Mr. Scarborough's Family.txt
+Anthony Trollope___Ayala's Angel.txt
+Andrew Lang___Alfred Tennyson.txt
+Andrew Lang___John Knox and the Reformation.txt
+Anthony Trollope___The Claverings.txt
+Andrew Lang___In the Wrong Paradise.txt
+Anthony Trollope___The Macdermots of Ballycloran.txt
+Abraham Lincoln___Speeches and Letters of Abraham Lincoln, 1832-1865.txt
+Baronness Orczy___Lord Tony's Wife.txt
+Baronness Orczy___The Tangled Skein.txt
+Anthony Trollope___Autobiography of Anthony Trollope.txt
+Aldous Huxley___Crome Yellow.txt
+Abraham Lincoln___The Writings of Abraham Lincoln, Volume 5_ 1858-1862.txt
+Ambrose Bierce___The Fiend's Delight.txt
+Alexander Pope___The Rape of the Lock and Other Poems.txt
+Alexander Pope___Essay on Man.txt
+Andrew Lang___Homer and His Age.txt
+Andrew Lang___Lost Leaders.txt
+Alfred Russel Wallace___Contributions to the Theory of Natural Selection.txt
 Andrew Lang___A Monk of Fife.txt
 Ambrose Bierce___Can Such Things Be_.txt
 Baronness Orczy___The Scarlet Pimpernel.txt
 Anthony Trollope___Thackeray.txt
 Andrew Lang___The Book of Dreams and Ghosts.txt
-Abraham Lincoln___The Writings of Abraham Lincoln, Volume 2_ 1843-1858.txt
-Baronness Orczy___The Heart of a Woman.txt
-Anthony Trollope___The Warden.txt
-Andrew Lang___The Mark Of Cain.txt
-Anthony Trollope___The Landleaguers.txt
-Andrew Lang___Letters to Dead Authors.txt
-Abraham Lincoln___The Writings of Abraham Lincoln, Volume 6_ 1862-1863.txt
-Andrew Lang___The Blue Fairy Book.txt
-Andrew Lang___The Library.txt
-Anthony Trollope___Rachel Ray.txt
-Baronness Orczy___A Bride of the Plains.txt
-Baronness Orczy___I Will Repay.txt
-Andrew Lang___A Collection of Ballads.txt
-Andrew Lang___James VI and the Gowrie Mystery.txt
-Andrew Lang___Modern Mythology.txt
-Baronness Orczy___The League of the Scarlet Pimpernel.txt
-Anthony Trollope___Miss Mackenzie.txt
-Anthony Trollope___Lady Anna.txt
-Andrew Lang___Books and Bookmen.txt
-Anthony Trollope___The Belton Estate.txt
-Agatha Christie___The Secret Adversary.txt
-Baronness Orczy___Castles in the Air.txt
-Abraham Lincoln___The Writings of Abraham Lincoln, Volume 7_ 1863-1865.txt
-Andrew Lang___Shakespeare, Bacon and the Great Unknown.txt
 
-50 ITEMS IN GROUP FOR RESULT #7 ARE: 
-Baronness Orczy___El Dorado.txt
-Alfred Russel Wallace___The Malay Archipelago, Volume 1.txt
-Ambrose Bierce___Shapes of Clay.txt
-Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 2.txt
-Anthony Trollope___The Kellys and the O'Kellys.txt
-Ambrose Bierce___Black Beetles in Amber.txt
-Ambrose Bierce___The Shadow On The Dial, and Other Essays.txt
-Anthony Trollope___Ralph the Heir.txt
-Baronness Orczy___The Bronze Eagle.txt
-Andrew Lang___Essays in Little.txt
-Ambrose Bierce___Cobwebs From an Empty Skull.txt
-Alfred Russel Wallace___The Malay Archipelago, Volume 2.txt
-Andrew Lang___A Short History of Scotland.txt
-Anthony Trollope___John Caldigate.txt
-Baronness Orczy___Petticoat Rule.txt
-Andrew Lang___Custom and Myth.txt
-Anthony Trollope___The Duke's Children.txt
-Anthony Trollope___Life of Cicero Volume Two.txt
-Andrew Lang___The Valet's Tragedy and Other Stories.txt
-Andrew Lang___Historical Mysteries.txt
-Baronness Orczy___The Laughing Cavalier.txt
-Anthony Trollope___La Vendée.txt
-Anthony Trollope___The Vicar of Bullhampton.txt
-Andrew Lang___Pickle the Spy.txt
-Abraham Lincoln___The Writings of Abraham Lincoln, Volume 1_ 1832-1843.txt
-Baronness Orczy___The Nest of the Sparrowhawk.txt
-Baronness Orczy____Unto Caesar_.txt
-Anthony Trollope___Marion Fay.txt
-Andrew Lang___Alfred Tennyson.txt
-Anthony Trollope___Is He Popenjoy_.txt
-Baronness Orczy___The Elusive Pimpernel.txt
-Anthony Trollope___The American Senator.txt
-Andrew Lang___John Knox and the Reformation.txt
-Anthony Trollope___Mr. Scarborough's Family.txt
-Anthony Trollope___Ayala's Angel.txt
-Andrew Lang___In the Wrong Paradise.txt
-Abraham Lincoln___Speeches and Letters of Abraham Lincoln, 1832-1865.txt
-Baronness Orczy___Lord Tony's Wife.txt
-Anthony Trollope___The Claverings.txt
-Baronness Orczy___The Tangled Skein.txt
-Anthony Trollope___The Macdermots of Ballycloran.txt
-Anthony Trollope___Autobiography of Anthony Trollope.txt
-Aldous Huxley___Crome Yellow.txt
-Alexander Pope___Essay on Man.txt
-Abraham Lincoln___The Writings of Abraham Lincoln, Volume 5_ 1858-1862.txt
-Alexander Pope___The Rape of the Lock and Other Poems.txt
-Ambrose Bierce___The Fiend's Delight.txt
-Andrew Lang___Homer and His Age.txt
-Andrew Lang___Lost Leaders.txt
-Alfred Russel Wallace___Contributions to the Theory of Natural Selection.txt
-
-4 ITEMS IN GROUP FOR RESULT #8 ARE: 
-Andrew Lang___Old Friends - Essays in Epistolary Parody.txt
-Andrew Lang___The Arabian Nights Entertainments.txt
-Andrew Lang___Oxford.txt
-Baronness Orczy___The Old Man in the Corner.txt
-
-6 ITEMS IN GROUP FOR RESULT #9 ARE: 
-Alfred Russel Wallace___Is Mars Habitable_.txt
-Andrew Lang___Ban and Arriere Ban.txt
-Beatrix Potter___A Collection of Beatrix Potter Stories.txt
-Abraham Lincoln___The Writings of Abraham Lincoln, Volume 4.txt
-Andrew Lang___He.txt
-Andrew Lang___Prince Ricardo of Pantouflia.txt
-
-33 ITEMS IN GROUP FOR RESULT #10 ARE: 
-Alexander Pope___The Works of Alexander Pope, Volume 1.txt
-Alexander Pope___The Poetical Works of Alexander Pope, Volume 2.txt
-Ambrose Bierce___The Devil's Dictionary.txt
-Anthony Trollope___Barchester Towers.txt
-Alexander Pope___The Poetical Works of Alexander Pope, Volume 1.txt
-Anthony Trollope___The Way We Live Now.txt
-Anthony Trollope___The Three Clerks.txt
-Anthony Trollope___He Knew He Was Right.txt
-Alfred Russel Wallace___Island Life.txt
-Anthony Trollope___Can You Forgive Her_.txt
-Alfred Russel Wallace___Darwinism.txt
-Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 8.txt
-Anthony Trollope___Phineas Redux.txt
-Anthony Trollope___The Prime Minister.txt
-Anthony Trollope___The Last Chronicle of Barset.txt
-Anthony Trollope___The Bertrams.txt
-Anthony Trollope___Orley Farm.txt
-Andrew Lang___Myth, Ritual And Religion, Vol. 2 (of 2).txt
-Andrew Lang___Myth, Ritual, and Religion, Vol. 1.txt
-Anthony Trollope___Doctor Thorne.txt
-Andrew Lang___Adventures among Books.txt
-Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 1.txt
-Anthony Trollope___North America Volume 1.txt
-Anthony Trollope___The Eustace Diamonds.txt
-Andrew Lang___The Making of Religion.txt
-Andrew Lang___The Disentanglers.txt
-Anthony Trollope___Framley Parsonage.txt
-Anthony Trollope___Life of Cicero Volume One.txt
-Andrew Lang___Cock Lane and Common-Sense.txt
-Anthony Trollope___North America Volume 2.txt
-Anthony Trollope___The Small House at Allington.txt
-Anthony Trollope___Phineas Finn.txt
-Anthony Trollope___Castle Richmond.txt
-
-6 ITEMS IN GROUP FOR RESULT #11 ARE: 
-Andrew Lang___Prince Prigio From _His Own Fairy Book_.txt
-Andrew Lang___The Puzzle of Dickens's Last Plot.txt
-Andrew Lang___How to Fail in Literature.txt
-Anthony Trollope___A Ride Across Palestine.txt
-Andrew Lang___Prince Prigio.txt
-Ambrose Bierce___The Parenticide Club.txt
-
-2 ITEMS IN GROUP FOR RESULT #12 ARE: 
-Andrew Lang___The Grey Fairy Book.txt
-Anthony Trollope___An Eye for an Eye.txt
-
-13 ITEMS IN GROUP FOR RESULT #13 ARE: 
-Anthony Trollope___Miss Sarah Jack, of Spanish Town, Jamaica.txt
-Anthony Trollope___The Courtship of Susan Bell.txt
-Albert Einstein___Sidelights on Relativity.txt
-Ambrose Bierce___An Occurrence at Owl Creek Bridge.txt
-Anthony Trollope___George Walker At Suez.txt
-Anthony Trollope___Returning Home.txt
-Anthony Trollope___The Parson's Daughter of Oxney Colne.txt
-Anthony Trollope___The House of Heine Brothers, in Munich.txt
-Anthony Trollope___The Chateau of Prince Polignac.txt
-Anthony Trollope___The O'Conors of Castle Conor from Tales from all Countries.txt
-Abraham Lincoln___Lincoln's First Inaugural Address.txt
-Anthony Trollope___The Mistletoe Bough.txt
-Ambrose Bierce___The Damned Thing.txt
-
-10 ITEMS IN GROUP FOR RESULT #14 ARE: 
-Andrew Lang___The Gold Of Fairnilee.txt
+30 ITEMS IN GROUP FOR RESULT #10 ARE: 
 Ambrose Bierce___A Son of the Gods, and A Horseman in the Sky.txt
-Abraham Lincoln___The Life and Public Service of General Zachary Taylor_ An Address.txt
 Anthony Trollope___Aaron Trow.txt
+Abraham Lincoln___The Life and Public Service of General Zachary Taylor_ An Address.txt
 Anthony Trollope___Mrs. General Talboys.txt
 Anthony Trollope___An Unprotected Female at the Pyramids.txt
 Anthony Trollope___The Relics of General Chasse.txt
 Anthony Trollope___La Mere Bauche from Tales of All Countries.txt
 Anthony Trollope___John Bull on the Guadalquivir from Tales from all Countries.txt
+Howard Phillips Lovecraft_The Nameless City.txt
+Howard Phillips Lovecraft_The Tomb.txt
+Howard Phillips Lovecraft_Pickman's Model.txt
 Anthony Trollope___The Man Who Kept His Money In A Box.txt
+Anthony Trollope___The Courtship of Susan Bell.txt
+Anthony Trollope___Miss Sarah Jack, of Spanish Town, Jamaica.txt
+Albert Einstein___Sidelights on Relativity.txt
+Anthony Trollope___George Walker At Suez.txt
+Ambrose Bierce___An Occurrence at Owl Creek Bridge.txt
+Anthony Trollope___Returning Home.txt
+Anthony Trollope___The Parson's Daughter of Oxney Colne.txt
+Anthony Trollope___The House of Heine Brothers, in Munich.txt
+Howard Phillips Lovecraft_The Alchemist.txt
+Anthony Trollope___The Chateau of Prince Polignac.txt
+Anthony Trollope___The O'Conors of Castle Conor from Tales from all Countries.txt
+Anthony Trollope___The Mistletoe Bough.txt
+Abraham Lincoln___Lincoln's First Inaugural Address.txt
+Ambrose Bierce___The Damned Thing.txt
+Howard Phillips Lovecraft_The Moon-Bog.txt
+Howard Phillips Lovecraft_The Music of Erich Zann.txt
+Howard Phillips Lovecraft_The Beast in the Cave.txt
+Howard Phillips Lovecraft_Dagon.txt
 
-3 ITEMS IN GROUP FOR RESULT #15 ARE: 
+14 ITEMS IN GROUP FOR RESULT #11 ARE: 
+Howard Phillips Lovecraft_The White Ship.txt
+Howard Phillips Lovecraft_The Statement of Randolph Carter.txt
+Howard Phillips Lovecraft_The Doom That Came to Sarnath.txt
+Howard Phillips Lovecraft_Nyarlathotep.txt
+Howard Phillips Lovecraft_The Other Gods.txt
+Howard Phillips Lovecraft_The Book.txt
+Howard Phillips Lovecraft_The Cats of Ulthar.txt
+Abraham Lincoln___Lincoln's Second Inaugural Address.txt
+Abraham Lincoln___Lincoln Letters.txt
+Abraham Lincoln___The Emancipation Proclamation.txt
+Howard Phillips Lovecraft_Azathoth.txt
+Beatrix Potter___Cecily Parsley's Nursery Rhymes.txt
+Abraham Lincoln___Lincoln's Gettysburg Address, given November 19, 1863.txt
+Beatrix Potter___The Story of Miss Moppet.txt
+
+6 ITEMS IN GROUP FOR RESULT #12 ARE: 
+Anthony Trollope___Hunting Sketches.txt
+Andrew Lang___Andrew Lang's Introduction to The Compleat Angler.txt
+Andrew Lang___Much Darker Days.txt
+Andrew Lang___Grass of Parnassus.txt
+Aldous Huxley___The Defeat of Youth and Other Poems.txt
+Alexander Pope___An Essay on Criticism.txt
+
+5 ITEMS IN GROUP FOR RESULT #13 ARE: 
+Anthony Trollope___The Golden Lion of Granpere.txt
+Ambrose Bierce___A Cynic Looks at Life.txt
+Andrew Lang___Helen of Troy.txt
+Abraham Lincoln___The Writings of Abraham Lincoln, Volume 3.txt
+Arnold Joseph Toynbee___Turkey_ A Past and a Future.txt
+
+4 ITEMS IN GROUP FOR RESULT #14 ARE: 
+Howard Phillips Lovecraft_The Dunwich Horror.txt
+Andrew Lang___The Clyde Mystery.txt
+Anthony Trollope___Harry Heathcote of Gangoil.txt
+Beatrix Potter___The Great Big Treasury of Beatrix Potter.txt
+
+33 ITEMS IN GROUP FOR RESULT #15 ARE: 
+Alexander Pope___The Works of Alexander Pope, Volume 1.txt
+Alexander Pope___The Poetical Works of Alexander Pope, Volume 2.txt
+Anthony Trollope___Barchester Towers.txt
+Ambrose Bierce___The Devil's Dictionary.txt
+Anthony Trollope___The Way We Live Now.txt
+Anthony Trollope___The Three Clerks.txt
+Alexander Pope___The Poetical Works of Alexander Pope, Volume 1.txt
+Anthony Trollope___He Knew He Was Right.txt
+Anthony Trollope___Can You Forgive Her_.txt
+Alfred Russel Wallace___Island Life.txt
+Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 8.txt
+Alfred Russel Wallace___Darwinism.txt
+Anthony Trollope___Phineas Redux.txt
+Anthony Trollope___The Prime Minister.txt
+Anthony Trollope___The Last Chronicle of Barset.txt
+Anthony Trollope___The Bertrams.txt
+Anthony Trollope___Orley Farm.txt
+Anthony Trollope___Doctor Thorne.txt
+Andrew Lang___Myth, Ritual And Religion, Vol. 2 (of 2).txt
+Andrew Lang___Myth, Ritual, and Religion, Vol. 1.txt
+Andrew Lang___Adventures among Books.txt
+Anthony Trollope___The Eustace Diamonds.txt
+Anthony Trollope___North America Volume 1.txt
+Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 1.txt
+Andrew Lang___The Making of Religion.txt
+Anthony Trollope___Framley Parsonage.txt
+Andrew Lang___The Disentanglers.txt
+Anthony Trollope___The Small House at Allington.txt
+Anthony Trollope___North America Volume 2.txt
+Anthony Trollope___Life of Cicero Volume One.txt
+Andrew Lang___Cock Lane and Common-Sense.txt
+Anthony Trollope___Phineas Finn.txt
+Anthony Trollope___Castle Richmond.txt
+
+7 ITEMS IN GROUP FOR RESULT #16 ARE: 
+Andrew Lang___How to Fail in Literature.txt
+Anthony Trollope___A Ride Across Palestine.txt
+Andrew Lang___Prince Prigio.txt
+Howard Phillips Lovecraft_The Thing on the Doorstep.txt
+Howard Phillips Lovecraft_The Lurking Fear.txt
+Ambrose Bierce___The Parenticide Club.txt
+Andrew Lang___The Gold Of Fairnilee.txt
+
+5 ITEMS IN GROUP FOR RESULT #17 ARE: 
 Albert Einstein___Relativity_ The Special and General Theory.txt
 Ambrose Bierce___Write It Right.txt
 Andrew Lang___New Collected Rhymes.txt
+Andrew Lang___Prince Prigio From _His Own Fairy Book_.txt
+Andrew Lang___The Puzzle of Dickens's Last Plot.txt
 
-10 ITEMS IN GROUP FOR RESULT #16 ARE: 
-Anthony Trollope___Linda Tressel.txt
-Anthony Trollope___Nina Balatka.txt
-Abraham Lincoln___State of the Union Addresses.txt
-Anthony Trollope___An Old Man's Love.txt
-Anthony Trollope___Cousin Henry.txt
-Andrew Lang___Helen of Troy.txt
-Ambrose Bierce___A Cynic Looks at Life.txt
-Anthony Trollope___The Golden Lion of Granpere.txt
-Arnold Joseph Toynbee___Turkey_ A Past and a Future.txt
-Abraham Lincoln___The Writings of Abraham Lincoln, Volume 3.txt
-
-6 ITEMS IN GROUP FOR RESULT #17 ARE: 
-Agatha Christie___The Mysterious Affair at Styles.txt
-Andrew Lang___Angling Sketches.txt
-Andrew Lang___The Crimson Fairy Book.txt
-Anthony Trollope___The Fixed Period.txt
-Ambrose Bierce___Fantastic Fables.txt
-Andrew Lang___The Pink Fairy Book.txt
-
-6 ITEMS IN GROUP FOR RESULT #18 ARE: 
-Andrew Lang___The Clyde Mystery.txt
-Beatrix Potter___The Great Big Treasury of Beatrix Potter.txt
-Anthony Trollope___Harry Heathcote of Gangoil.txt
-Andrew Lang___Rhymes a la Mode.txt
-Andrew Lang___Ballads in Blue China and Verses and Translations.txt
-Ambrose Bierce___Present at a Hanging and Other Ghost Stories.txt
-
-5 ITEMS IN GROUP FOR RESULT #19 ARE: 
+7 ITEMS IN GROUP FOR RESULT #18 ARE: 
+Andrew Lang___Old Friends - Essays in Epistolary Parody.txt
+Andrew Lang___The Arabian Nights Entertainments.txt
+Baronness Orczy___The Old Man in the Corner.txt
+Andrew Lang___Oxford.txt
 Andrew Lang___The Yellow Fairy Book.txt
-Andrew Lang___The Red Fairy Book.txt
 Anthony Trollope___The Struggles of Brown, Jones, and Robinson.txt
-Andrew Lang___Letters on Literature.txt
-Andrew Lang___The Lilac Fairy Book.txt
+Andrew Lang___The Red Fairy Book.txt
+
+7 ITEMS IN GROUP FOR RESULT #19 ARE: 
+Alfred Russel Wallace___Is Mars Habitable_.txt
+Andrew Lang___Ban and Arriere Ban.txt
+Abraham Lincoln___The Writings of Abraham Lincoln, Volume 4.txt
+Beatrix Potter___A Collection of Beatrix Potter Stories.txt
+Howard Phillips Lovecraft_The Call of Cthulu.txt
+Andrew Lang___He.txt
+Andrew Lang___Prince Ricardo of Pantouflia.txt
